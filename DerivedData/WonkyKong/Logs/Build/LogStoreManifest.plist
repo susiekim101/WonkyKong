@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>0BBC710C-98A8-49E0-B67C-80E5876A79BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0BBC710C-98A8-49E0-B67C-80E5876A79BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WonkyKong project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WonkyKong</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WonkyKong</string>
+			<key>timeStartedRecording</key>
+			<real>762761049.46296501</real>
+			<key>timeStoppedRecording</key>
+			<real>762761049.93266201</real>
+			<key>title</key>
+			<string>Build WonkyKong</string>
+			<key>uniqueIdentifier</key>
+			<string>0BBC710C-98A8-49E0-B67C-80E5876A79BD</string>
+		</dict>
+		<key>AA4C2461-C74F-4D7F-8658-28BE94D53B01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA4C2461-C74F-4D7F-8658-28BE94D53B01.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WonkyKong project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WonkyKong</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WonkyKong</string>
+			<key>timeStartedRecording</key>
+			<real>762760918.16727698</real>
+			<key>timeStoppedRecording</key>
+			<real>762760920.545959</real>
+			<key>title</key>
+			<string>Build WonkyKong</string>
+			<key>uniqueIdentifier</key>
+			<string>AA4C2461-C74F-4D7F-8658-28BE94D53B01</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
